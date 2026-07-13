@@ -4,73 +4,63 @@
 
 I'm a Computer Science student at the **University of Memphis** with a concentration in **Artificial Intelligence** and a minor in **Mathematics**.
 
-Currently, I'm working as an **IT Technician Intern at Porter-Leath**, where I'm gaining hands-on experience solving technical problems while continuing to grow my software engineering skills.
-
-My long-term goal is to become a software engineer specializing in AI-driven solutions that make a meaningful impact.
+As an entrepreneurial computer scientist, I'm passionate about building practical technology, solving meaningful problems, and continuously expanding my technical skill set. My goal is to combine software engineering, artificial intelligence, and business to create impactful solutions and long-term value.
 
 ---
 
-# 💻 What I'm Currently Working On
+## 🚀 Current Focus
 
 - Building a professional software engineering portfolio
-- Artificial Intelligence projects
-- Computer Networks
-- Data Structures & Algorithms
-- Python development
-- Mathematics for AI
+- Strengthening my foundations in AI, software engineering, and computer systems
+- Developing real-world projects through coursework and personal initiatives
+- Gaining hands-on technical experience through internships
+- Becoming a well-rounded engineer and lifelong learner
 
 ---
 
-# 🚀 Technical Skills
+## 💻 Technical Skills
 
-### Languages
-
+**Languages**
 - Python
 - Java
 - JavaScript
 - HTML
 - CSS
 
-### Tools
-
+**Tools & Technologies**
 - Git
 - GitHub
-- VS Code
 - Mathematica
+- Visual Studio Code
 
 ---
 
-# 📂 Featured Projects
 
-Coming soon...
+## Projects
 
-Every significant project in this portfolio represents coursework, internships, or personal development and includes professional documentation.
+This portfolio is actively growing.
 
-Current focus:
+Each repository documents coursework, internships, and personal projects that reflect my journey as an engineer.
 
-- 🌐 UDP Pinger
-- 📊 Mathematica Visualizations
-- 🤖 Artificial Intelligence Projects
-- 💼 Software Engineering Projects
+Every repository on this profile is professionally documented and represents coursework, internships, or personal projects that demonstrate continuous technical growth.
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Current Goals
 
-- Build **30+** professional GitHub repositories
-- Master Python for AI and Software Engineering
-- Continue gaining real-world IT experience
-- Earn a Software Engineering internship
-- Create projects that solve real problems
-
----
-
-# 📈 Philosophy
-
-I believe consistent improvement beats occasional perfection.
-
-Every repository on this profile represents another step in my journey toward becoming a better engineer.
+- Build a portfolio of high-quality software projects
+- Deepen my knowledge of Artificial Intelligence and Machine Learning
+- Continue growing as a software engineer through hands-on development
+- Earn opportunities where I can contribute, learn, and solve meaningful problems
 
 ---
 
-## Thanks for visiting my GitHub!
+## 📖 Philosophy
+
+I believe consistent effort compounds over time.
+
+Every project I complete is another opportunity to improve my technical ability, strengthen my problem-solving skills, and move one step closer to becoming the engineer I aspire to be.
+
+---
+
+> **Building technology with purpose. Learning without limits.**
