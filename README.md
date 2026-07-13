@@ -1,60 +1,76 @@
 # 👋 Hi, I'm AJ Jones
 
-🎓 **Computer Science Student** at the **University of Memphis**
+### Computer Science Student | Artificial Intelligence Concentration | Mathematics Minor
 
-🧠 **Artificial Intelligence Concentration**
+I'm a Computer Science student at the **University of Memphis** with a concentration in **Artificial Intelligence** and a minor in **Mathematics**.
 
-📐 **Mathematics Minor**
+Currently, I'm working as an **IT Technician Intern at Porter-Leath**, where I'm gaining hands-on experience solving technical problems while continuing to grow my software engineering skills.
 
-💼 **IT Technician Intern** @ Porter-Leath
+My long-term goal is to become a software engineer specializing in AI-driven solutions that make a meaningful impact.
 
 ---
 
-## 🚀 About Me
+# 💻 What I'm Currently Working On
 
-I'm passionate about solving problems through technology and continuously improving my skills as a software developer.
-
-My interests include:
-
-- Artificial Intelligence
-- Software Engineering
+- Building a professional software engineering portfolio
+- Artificial Intelligence projects
 - Computer Networks
 - Data Structures & Algorithms
-- Python Development
-
-My goal is to graduate with a portfolio that demonstrates consistent technical growth through real projects, coursework, and internships.
-
----
-
-## 📚 Currently Learning
-
-- Python
-- Computer Networks
-- Artificial Intelligence
-- Machine Learning
-- Git & GitHub
-- Data Structures
+- Python development
+- Mathematics for AI
 
 ---
 
-## 🛠️ Technologies
+# 🚀 Technical Skills
+
+### Languages
 
 - Python
 - Java
 - JavaScript
+- HTML
+- CSS
+
+### Tools
+
 - Git
 - GitHub
+- VS Code
 - Mathematica
 
 ---
 
-## 🎯 2026 Goals
+# 📂 Featured Projects
 
-- Build 25+ professional GitHub repositories
-- Complete AI-focused software projects
-- Strengthen problem-solving and software engineering skills
-- Continue gaining real-world technical experience
+Coming soon...
+
+Every significant project in this portfolio represents coursework, internships, or personal development and includes professional documentation.
+
+Current focus:
+
+- 🌐 UDP Pinger
+- 📊 Mathematica Visualizations
+- 🤖 Artificial Intelligence Projects
+- 💼 Software Engineering Projects
 
 ---
 
-> *"Every project is an opportunity to learn something new."*
+# 🎯 2026 Goals
+
+- Build **30+** professional GitHub repositories
+- Master Python for AI and Software Engineering
+- Continue gaining real-world IT experience
+- Earn a Software Engineering internship
+- Create projects that solve real problems
+
+---
+
+# 📈 Philosophy
+
+I believe consistent improvement beats occasional perfection.
+
+Every repository on this profile represents another step in my journey toward becoming a better engineer.
+
+---
+
+## Thanks for visiting my GitHub!
