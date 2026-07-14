@@ -8,7 +8,7 @@ As an entrepreneurial computer scientist, I'm passionate about building practica
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Building a professional software engineering portfolio
 - Strengthening my foundations in AI, software engineering, and computer systems
