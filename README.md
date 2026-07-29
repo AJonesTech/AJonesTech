@@ -1,4 +1,4 @@
-# 👋 Hi, I'm AJ Jones
+# 👋 Hello, I'm AJ Jones
 
 ### Computer Science Student | Artificial Intelligence Concentration | Mathematics Minor
 
@@ -15,6 +15,7 @@ As an entrepreneurial computer scientist, I'm passionate about building practica
 - Developing real-world projects through coursework and personal initiatives
 - Gaining hands-on technical experience through internships
 - Becoming a well-rounded engineer and lifelong learner
+
 
 ---
 
